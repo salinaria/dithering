@@ -1,2 +1,2 @@
 # dithering
-Dithering an Floyd-Steinberg dithering algorithms
+Dithering and Floyd-Steinberg dithering algorithms
